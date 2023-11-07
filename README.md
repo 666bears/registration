@@ -10,8 +10,7 @@
 #### 二、项目技术
 后端： SpringBoot+Mybaits-Plus
 
-前端：Vue +ElementUI +Layui +HTML+CSS+JS
-
+前端：Vue +ElementUI
 #### 三、 运行环境
 开发语言：Java
 
