@@ -1,11 +1,11 @@
 #### 一、 项目介绍
-基于SpringBoot Vue的旅游系统
+基于SpringBoot Vue的医院管理系统
 
-角色：管理员、用户、服务人员
+角色：医生、患者、管理员
 
-管理员：管理员登录成功后，可以进行查看个人中心、用户管理、路线分类管理、旅游路线管理、最新路线管理、系统管理、订单管理等功能模块。
-
-用户：用户登录成功后，可以进行查看旅游路线、最新线路、旅游资讯、个人中心、后台管理、购物车、客服等功能模块。
+管理员：医生信息、科室管理、挂号预约、用户管理、就诊单、住院办理、药品信息、住院通知、药品类别、退费信息、检查信息。
+医生：医生信息、挂号预约、就诊单、住院通知、检查信息、登录。
+患者：登录注册、首页、公告消息、医院资讯、医生信息、我的账户、个人中心、药品信息等。
 
 #### 二、项目技术
 后端： SpringBoot+Mybaits-Plus
@@ -26,8 +26,14 @@ JDK版本：1.8
 项目管理：Maven
 Node版本：14
 #### 四、运行截图（点图片可放大）
-![1](https://github.com/666bears/registration/assets/143094776/e95efa7e-cf99-48eb-b3bb-0cb54904d89b)
-![2](https://github.com/666bears/registration/assets/143094776/f3dfcdb6-9986-47ff-94d4-d5017f8e9812)
+![2](https://github.com/666bears/registration/assets/143094776/6e562fae-8b26-48cb-b4b6-b2d8128e90be)
+![3](https://github.com/666bears/registration/assets/143094776/f16a7a85-8e4f-4a26-a930-1b052f890a7d)
+![4](https://github.com/666bears/registration/assets/143094776/80273fa6-4e92-4ff2-911f-a2300178766b)
+![8](https://github.com/666bears/registration/assets/143094776/d9d3464a-f43f-42c0-a6c4-7b5165e1c194)
+![5](https://github.com/666bears/registration/assets/143094776/d6b8026d-fc7b-4111-b429-60f0d8539da3)
+![6](https://github.com/666bears/registration/assets/143094776/0012c642-0cd2-4055-a427-4b05eb6acf41)
+![7](https://github.com/666bears/registration/assets/143094776/7bfa2900-d656-4b33-a635-996e2a1efd75)
+![1677122507712](https://github.com/666bears/registration/assets/143094776/df892cd9-f0c4-4cb9-be65-059be2d9c18c)
 
 
 #### 五、安装教程
@@ -39,7 +45,7 @@ Node版本：14
 
 启动项目
 #### 六、获取地址
-#### 获取地址&视频演示：https://www.666bear.com/?cat=&s=%E6%97%85%E6%B8%B8
+#### 获取地址&视频演示：https://www.666bear.com/1771.html
 
 #### 接毕业设计和论文
 #### 接网站建设、小程序、H5、APP、各种系统等
